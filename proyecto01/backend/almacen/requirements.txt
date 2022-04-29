@@ -1,0 +1,6 @@
+django==4.0.4
+cx_oracle==8.3.0
+django-import-export==2.7.1
+djangorestframework==3.13.1
+django-cors-headers==3.11.0
+django-filter==21.1
